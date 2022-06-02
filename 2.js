@@ -6,3 +6,4 @@ let min = 4;
 
 const abc = 'abc';
 const hj = 'hj';
+const oyt = 'oyt';
