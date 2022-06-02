@@ -5,3 +5,4 @@ let max = 10;
 let min = 4;
 
 const abc = 'abc';
+const hj = 'hj';
