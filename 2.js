@@ -3,3 +3,5 @@ let str = '这是2.js文件';
 
 let max = 10;
 let min = 4;
+
+const abc = 'abc';
