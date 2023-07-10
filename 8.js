@@ -1,0 +1,1 @@
+const text = '8.js文件内容';
