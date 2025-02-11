@@ -9,3 +9,4 @@ function max(num1, num2) {
 }
 
 max(5, 9);
+// 修改1.js
